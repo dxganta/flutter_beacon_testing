@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
     BeaconsPlugin.listenToBeacons(beaconEventsController);
 
     await BeaconsPlugin.addRegion(
-        "MkiBeacon_00000", "909c3cf9-fc5c-4841-b695-380958a51a5a");
+        "MkiBeacon_00000", "E2C56DB5-DFFB-48D2-B060-D0F5A71096E5");
 //    await BeaconsPlugin.addRegion(
 //        "BeaconType2", "6a84c716-0f2a-1ce9-f210-6a63bd873dd9");
 
